@@ -1,2 +1,1 @@
-Hello, 
-I have uploaded each and every Certifications and Training Certifications.
+This repo hosts copies of my certifications and training completion certificates for easy reference and verification.
